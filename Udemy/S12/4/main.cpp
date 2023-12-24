@@ -1,6 +1,10 @@
-//
-// Created by Dalton on 12/23/2023
-//
+/*
+	-----------------------------------------------------------------------------------
+	Section 12
+	Accessing the Pointer Address and Storing Address in a Pointer
+	Date: 12/23/2023
+	-----------------------------------------------------------------------------------
+*/
 
 #include <iostream>
 #include <vector>

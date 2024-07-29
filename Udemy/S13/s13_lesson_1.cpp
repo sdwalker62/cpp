@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int main() {
+int s13_lesson_1() {
 
 	return 0;
 }

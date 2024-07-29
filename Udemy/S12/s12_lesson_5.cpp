@@ -13,7 +13,7 @@
 using namespace std;
 
 
-int main(){
+int s12_lesson_5(){
 	int score {100};
 	int *score_ptr {&score};
 

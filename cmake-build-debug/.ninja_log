@@ -1,0 +1,18 @@
+# ninja log v6
+3	569	7439799285468154	CMakeFiles/cpp.dir/Udemy/S12/4/main.cpp.obj	613b9d6ce1b52bc0
+14	566	7439799285578347	CMakeFiles/cpp.dir/Udemy/S13/main.cpp.obj	6d3169d25a57b90
+9	707	7439799285528351	CMakeFiles/cpp.dir/Udemy/S12/5/main.cpp.obj	883baf3ebbf2ac3d
+9	297	7439809141988823	build.ninja	bc20510a7b12f601
+26	559	7439801822275671	CMakeFiles/cpp.dir/Udemy/S12/4/S12_4_main.cpp.obj	6c6cae71a4fb195f
+31	691	7439801822320668	CMakeFiles/cpp.dir/Udemy/S12/5/S12_5_main.cpp.obj	73f5f3c72bb087cf
+538	665	7439806512113961	cpp.exe	23787463007a3559
+25	118	7439806183950476	CMakeFiles/cpp.dir/Udemy/udemy.cpp.obj	46598041e3d30d4
+30	130	7439806184005648	CMakeFiles/cpp.dir/Udemy/S14/1_main.cpp.obj	83c1af45d654c7ab
+14	538	7439806506871388	CMakeFiles/cpp.dir/Udemy/S13/S13_main.cpp.obj	16e2b2e90266aa69
+10	292	7439809141988823	build.ninja	bc20510a7b12f601
+35	127	7439809142936807	CMakeFiles/cpp.dir/Udemy/udemy.cpp.obj	46598041e3d30d4
+42	143	7439809143017611	CMakeFiles/cpp.dir/Udemy/S14/s14_lesson_1.cpp.obj	c511c6b03a69843b
+29	582	7439809142881523	CMakeFiles/cpp.dir/Udemy/S13/s13_lesson_1.cpp.obj	72de9e5b93cb1b0d
+19	583	7439809142776342	CMakeFiles/cpp.dir/Udemy/S12/s12_lesson_4.cpp.obj	144d75ed5a7d5c16
+24	715	7439809142831540	CMakeFiles/cpp.dir/Udemy/S12/s12_lesson_5.cpp.obj	30b0d2b9854b7b81
+715	845	7439809149744813	cpp.exe	23423ed870ca81c4

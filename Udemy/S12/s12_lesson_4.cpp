@@ -13,7 +13,7 @@
 using namespace std;
 
 
-int main() {
+int s12_lesson_4() {
 	int num{10};
 
 	cout << "\n" << endl;
